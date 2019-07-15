@@ -1,8 +1,8 @@
 {
-    "token": "insert-token",
-    "testID": "insert-server-id",
+    "token": "",
+    "testID": "",
     "prefix": "!",
-    "badWords": ["what-offends-you", "", ""],
+    "badWords": ["gay", "fagget", "fggt", "kurwa", "stfu"],
     "stories": ["Times like these, I really start to question the meaning of my existence. Then I get distra-hey hey hey! What's this? \nhttps://goo.gl/8ZLnZA This looks cool!",
                         "How does math work? Does this skin make me look fat? If a giraffe and a car had a baby, would it be called a caraffe? Life's big questions, man.",
                         "Does this mean I can start dancing? Pleeeeeeaaaaase?",

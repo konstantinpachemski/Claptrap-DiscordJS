@@ -1,7 +1,7 @@
 {
   "name": "discordbotclaptrap",
   "version": "1.0.0",
-  "description": "claptrap comes to discord to enchance your lives.",
+  "description": "CL4P-TP comes to Discord to enchance your lives.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
